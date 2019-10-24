@@ -1,0 +1,9 @@
+D:\18.11.2314\#3 AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.frmTulisanBerjalan.resources
+D:\18.11.2314\#3 AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.Properties.Resources.resources
+D:\18.11.2314\#3 AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.GenerateResource.cache
+D:\18.11.2314\#3 AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.CoreCompileInputs.cache
+D:\18.11.2314\#3 AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe.config
+D:\18.11.2314\#3 AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe
+D:\18.11.2314\#3 AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.pdb
+D:\18.11.2314\#3 AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.exe
+D:\18.11.2314\#3 AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.pdb
